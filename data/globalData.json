@@ -1,80 +1,85 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Lawton Orthodontics",
+  "domain": "lawtonorthodontics.com",
+  "email": "info@lawtonortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(407) 644-8242",
+    "href": "tel:+14076448242",
+    "aria": "4 0 7, 6 4 4, 8 2 4 2"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Winter Park Office",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "201 N Lakemont Avenue",
+        "suite": "Suite 400",
+        "city_state": "Winter Park, FL 32792",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-81.328381",
+          "latitude": "28.598313"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(407) 644-8242",
+        "href": "tel:+14076448242"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@lawtonortho.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon - Thu",
+          "time": "8:00 am - 5:00 pm"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Fri",
+          "time": "8:00 am - 12:00 pm"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Sat - Sun",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=201+N+Lakemont+Avenue+Suite+400+Winter+Park+FL+32792",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Complimentary consultations available. Call to schedule."
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Oviedo Office",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "280 Alafaya Woods Blvd",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Oviedo, FL 32765",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-81.204483",
+          "latitude": "28.649149"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(407) 644-8242",
+        "href": "tel:+14076448242"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "info@lawtonortho.com",
+      "hours": [
+        {
+          "day": "Mon - Thu",
+          "time": "8:00 am - 5:00 pm"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00 am - 12:00 pm"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=280+Alafaya+Woods+Blvd+Oviedo+FL+32765",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Second location serving Winter Park, Oviedo, and surrounding communities."
     }
   ],
   "typography": [
@@ -95,27 +100,27 @@
     "links": [
       {
         "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "text": "201 N Lakemont Ave, Suite 400, Winter Park, FL",
+        "href": "https://www.google.com/maps/search/?api=1&query=201+N+Lakemont+Avenue+Suite+400+Winter+Park+FL+32792",
+        "label": "View 201 N Lakemont Ave, Suite 400, Winter Park, FL on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(407) 644-8242",
+        "href": "tel:+14076448242",
+        "label": "Call 4 0 7. 6 4 4. 8 2 4 2.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Schedule your complimentary consultation",
+      "text": "Complimentary consultations for new patients — call (407) 644-8242 or request an appointment online.",
+      "mobile_text": "Complimentary consultations",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Schedule a Complimentary Consultation",
+        "text": "Lawton Orthodontics offers complimentary consultations for children, teens, and adults. Call (407) 644-8242 or visit the Contact page to request your visit and complete new patient forms online."
       }
     }
   },
@@ -150,20 +155,24 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
+        "href": "https://www.facebook.com/pages/Lawton-Orthodontics/147262561958082",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/lawtonortho/",
+        "icon": "instagram"
       }
     ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
-    "text": "",
+    "title": "Welcome to Lawton Orthodontics",
+    "text": "A family practice delivering modern orthodontics with personalized care in Winter Park and Oviedo. Call (407) 644-8242 to schedule your complimentary consultation.",
     "image": {
-      "src": "",
+      "src": "https://www.lawtonorthodontics.com/assets/images/logo.png",
       "webp": "",
-      "alt": "",
+      "alt": "Lawton Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +180,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "New Patients Hero"
+      }
     }
   }
 }
